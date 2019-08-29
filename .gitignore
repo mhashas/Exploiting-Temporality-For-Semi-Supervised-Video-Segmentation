@@ -1,0 +1,12 @@
+datasets/*
+results*/*
+logs/*
+thesis/*
+run/*
+histograms/*
+images/*
+saved_models/*
+.idea/*
+__pycache__/*
+**/__pycache__/*
+!.gitkeep
